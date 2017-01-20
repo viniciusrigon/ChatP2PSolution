@@ -1,0 +1,19 @@
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\obj\Debug\br.chatp2p.Properties.Resources.resources
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\obj\Debug\ChatP2PApp.csproj.GenerateResource.Cache
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\bin\Debug\ChatP2PApp.exe
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\bin\Debug\ChatP2PApp.pdb
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\obj\Debug\ChatP2PApp.exe
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\obj\Debug\ChatP2PApp.pdb
+C:\Dados\Programacao\App\ChatP2PSolution\ChatP2PApp\obj\Debug\br.chatp2p.Forms.FormPrincipal.resources
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\ChatP2PApp.exe
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\ChatP2PApp.pdb
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\br.chatp2p.Forms.FormPrincipal.resources
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\br.chatp2p.Properties.Resources.resources
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\bin\Debug\ChatP2PApp.exe
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\bin\Debug\ChatP2PApp.pdb
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\bin\Debug\ChatP2PApp.exe.config
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\ResGen.read.1.tlog
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\ResGen.write.1.tlog
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Debug\br.chatp2p.Forms.FormLogin.resources

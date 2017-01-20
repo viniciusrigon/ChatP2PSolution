@@ -1,0 +1,27 @@
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\bin\Release\ChatP2PApp.exe.config
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\bin\Release\ChatP2PApp.exe
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\bin\Release\ChatP2PApp.pdb
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Forms.FormLogin.resources
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Forms.FormPrincipal.resources
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Properties.Resources.resources
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\ResGen.read.1.tlog
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\ResGen.write.1.tlog
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\ChatP2PApp.exe
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\ChatP2PApp.pdb
+D:\Dropbox\ThaisZe\Sisop II\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Forms.FormAdicionarContato.resources
+D:\Projetos\ChatP2PSolution\ChatP2PApp\bin\Release\ChatP2PApp.exe.config
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\ChatP2PApp.exe
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\ChatP2PApp.pdb
+D:\Projetos\ChatP2PSolution\ChatP2PApp\bin\Release\ChatP2PApp.exe
+D:\Projetos\ChatP2PSolution\ChatP2PApp\bin\Release\ChatP2PApp.pdb
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Forms.FormAdicionarContato.resources
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Forms.FormLogin.resources
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Forms.FormPrincipal.resources
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\br.chatp2p.Properties.Resources.resources
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\ResGen.read.1.tlog
+D:\Projetos\ChatP2PSolution\ChatP2PApp\obj\Release\ResGen.write.1.tlog
+D:\Projetos\trunk\ChatP2PSolution\ChatP2PApp\bin\Release\ChatP2PApp.exe.config
+D:\Projetos\trunk\ChatP2PSolution\ChatP2PApp\obj\Release\ChatP2PApp.exe
+D:\Projetos\trunk\ChatP2PSolution\ChatP2PApp\obj\Release\ChatP2PApp.pdb
